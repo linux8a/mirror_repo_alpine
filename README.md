@@ -11,9 +11,9 @@ docker-compose -f docker-compose_traefik.yml up -d
 
 * Donacion:
 
-![Donacion](https://github.com/linux8a/docker_kms-server/blob/master/.donacion_enzona.png)
+![Donacion](.donacion_enzona.png)
 
 o un usd en bitcoin
 
-![Donacion](https://github.com/linux8a/docker_kms-server/blob/master/.donacion_bitcoin.png)
+![Donacion](.donacion_bitcoin.png)
 
